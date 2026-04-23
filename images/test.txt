@@ -1,0 +1,1 @@
+<img src="images/sean-headshot.jpg" alt="Sean Salayko" style="width:180px;border-radius:18px;margin-top:20px;">
